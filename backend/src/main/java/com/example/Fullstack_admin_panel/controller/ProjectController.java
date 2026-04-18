@@ -13,7 +13,7 @@ public class ProjectController {
 
     private final ProjectRepository repository;
 
-    // Dependency Injection: Δίνουμε το repository στον controller
+    
     public ProjectController(ProjectRepository repository) {
         this.repository = repository;
     }
