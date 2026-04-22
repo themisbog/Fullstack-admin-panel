@@ -13,9 +13,9 @@ The project demonstrates my ability to handle end-to-end development, from UI de
 
 ## Features (Developing)
 - [x] Initial Project Setup and Architecture.
-- [ ] Spring Boot REST Controller for Project Data.
-- [ ] Database integration using Spring Data JPA.
-- [ ] JavaScript Fetch API integration to dynamic render UI cards.
+- [x] Spring Boot REST Controller for Project Data.
+- [x] Database integration using Spring Data JPA.
+- [x] JavaScript Fetch API integration to dynamic render UI cards.
 
 ## Purpose
 I am building this to master:
