@@ -12,18 +12,12 @@ The project demonstrates my ability to handle end-to-end development, from UI de
 * **API:** RESTful architecture with JSON exchange.
 
 ## Features (Developing)
-- [x] **RESTful API:** Spring Boot Controller for seamless data management.
-- [x] **Dynamic UI:** Projects are fetched and rendered via JavaScript Fetch API.
-- [x] **Interactive Data Entry:** Modal-based form to add new projects in real-time.
-- [x] **Responsive Layout:** CSS Grid and Flexbox for a professional look.
-- [ ] **Delete Functionality:** (Coming soon) Ability to remove projects from the dashboard.
+- [x] Initial Project Setup and Architecture.
+- [x] Spring Boot REST Controller for Project Data.
+- [x] Database integration using Spring Data JPA.
+- [x] JavaScript Fetch API integration to dynamic render UI cards.
 
 ## Purpose
 I am building this to master:
 1. Building scalable RESTful services with Spring Boot.
 2. Managing asynchronous data fetching in the Frontend.
-
-## How to Run
-1. **Backend:** Open the Java folder in IntelliJ/Eclipse and run `DashboardApplication.java`. The server starts at `localhost:8080`.
-2. **Frontend:** Open `index.html` using Live Server (VS Code) or simply open it in your browser.
-3. **Database:** Access the H2 console at `localhost:8080/h2-console` to view the persistent data.
