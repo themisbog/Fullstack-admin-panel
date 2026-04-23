@@ -5,9 +5,9 @@ This is a comprehensive full-stack application that transforms a static Admin Da
 
 The project demonstrates my ability to handle end-to-end development, from UI design to REST API implementation and database persistence.
 
-![Dashboard Preview](![alt text]) 
-*Current state of the Dashboard featuring dynamic project cards fetched from the Spring Boot API.*
-(image.png)
+![Dashboard Preview]*Current state of the Dashboard featuring dynamic project cards fetched from the Spring Boot API.*
+(![alt text](image.png)) 
+
 
 ## Tech Stack
 * **Frontend:** HTML5, CSS3 (Grid/Flexbox), Vanilla JavaScript (ES6+).
