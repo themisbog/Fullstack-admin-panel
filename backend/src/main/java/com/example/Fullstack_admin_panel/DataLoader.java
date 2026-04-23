@@ -43,6 +43,6 @@ public class DataLoader implements CommandLineRunner {
             "QuickShip Logistics", 
             "Supply chain management platform with real-time GPS tracking and automated inventory forecasting using historical data."
         ));
-        System.out.println("✅ Data loaded successfully!");
+        System.out.println("Data loaded successfully!");
     }
 }

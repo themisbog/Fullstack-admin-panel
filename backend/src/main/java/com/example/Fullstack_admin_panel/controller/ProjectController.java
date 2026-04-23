@@ -23,4 +23,9 @@ public class ProjectController {
     public List<Project> getAllProjects() {
         return repository.findAll();
     }
+
+    @PostMapping
+    public Project createProject(@RequestBody Project project) {
+        return repository.save(project);
+    }
 }
